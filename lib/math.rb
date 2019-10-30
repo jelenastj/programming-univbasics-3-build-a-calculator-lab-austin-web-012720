@@ -29,6 +29,4 @@ end
 def square_root(num)
    sum = sqrt(num)
    sum
-
-
 end
