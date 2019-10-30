@@ -1,4 +1,8 @@
 def addition(num1, num2)
+  sum = number
+  sum = num1 + num2
+  sum
+  puts sum
 
 end
 
